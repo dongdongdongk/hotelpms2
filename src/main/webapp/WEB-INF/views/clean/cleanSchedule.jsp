@@ -476,6 +476,15 @@
                     </form>
                 </div>
             </div>
+            <div class="col-md-12">
+                <form class="form-inline">
+                    <div class="form-group">
+                        <label for="private-message">Private Message</label>
+                        <input type="text" id="private-message" class="form-control" placeholder="Enter your message here...">
+                    </div>
+                    <button id="send-private" class="btn btn-default" type="button">Send Private Message</button>
+                </form>
+            </div>
         </main>
         <footer class="footer-admin mt-auto footer-light">
             <div class="container-xl px-4">
