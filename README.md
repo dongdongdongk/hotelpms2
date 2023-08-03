@@ -79,7 +79,7 @@
 |Server|Tomcat(v8.5)|
 |Document|Google Drive, KakaoOven, ERDCloud, EdrawMind|
 |CI|Github|
-|DateBase|AWS RDS, Oracle, Docker|
+|DateBase|AWS RDS, MariaDB, Docker|
 ## **💻 기능구현**
 ### 1. 예약 사이트
 
