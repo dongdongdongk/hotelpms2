@@ -75,7 +75,7 @@
 |BackEnd|Java(JDK 1.8), Servlet, Spring, Mybatis|
 |OS|Windows 10, MacOS|
 |Libray&API|Spring Security, Validation, MailSender, Apache Commons FileUpload, WebSocket, Lombok, Fullcalendar, Kakaomap, KakaoLogin, Apache Poi
-|IDE|IntelliJ, VisualStudio, DBeaver|
+|IDE|IntelliJ, DBeaver|
 |Server|Tomcat(v8.5)|
 |Document|Google Drive, KakaoOven, ERDCloud, EdrawMind|
 |CI|Github|
